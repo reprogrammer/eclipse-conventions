@@ -1,4 +1,5 @@
-eclipse-coding-conventions
-==========================
+eclipse-conventions
+===================
 
-Coding convention files of Eclipse projects
+This repository contains the coding convention files of Eclipse projects.
+
